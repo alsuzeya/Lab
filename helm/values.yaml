@@ -1,0 +1,5 @@
+# -- Number of replicas
+replicaCount: 2
+# -- Pod labels
+podLabels: 
+  hello: world_caro
